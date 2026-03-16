@@ -14,7 +14,7 @@ Tableau, Data Visualization, A/B Testing Analysis, KPI Analysis
 - Both test groups have similar traffic across devices, countries, and channels.
 - Some metrics improved in the test group, such as add_payment_info and begin_checkout.
 - Several metrics show statistically significant differences between the groups.
-- User activity trends are similar for both groups over time.
+- User activity trends are similar for both groups.
   
 ## Interactive Dashboard
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/ABTestPerformanceStatisticalSignificanceAnalysis/ABTest?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

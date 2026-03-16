@@ -2,7 +2,7 @@
 Tableau dashboard analyzing A/B test performance, user behavior, and statistical significance of key conversion metrics.
 
 ## Dashboard Preview
-![Dashboard Preview](business-preview.png)
+![Dashboard Preview](ab-test-preview.png)
 
 ## Business Task
 Analyze A/B test results to compare user behavior between control and test groups and identify statistically significant changes in conversion metrics.

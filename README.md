@@ -8,7 +8,7 @@ Tableau dashboard analyzing A/B test performance, user behavior, and statistical
 Analyze A/B test results to compare user behavior between control and test groups and identify statistically significant changes in conversion metrics.
 
 ## Tools
-Tableau, Dashboard Design, Data Visualization, A/B Testing Analysis, KPI Analysis
+Tableau, Data Visualization, Dashboard Design, A/B Testing Analysis, KPI Analysis
 
 ## Key Insights
 - Both test groups have similar traffic across devices, countries, and channels.
